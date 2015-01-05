@@ -5,4 +5,4 @@ ImageViewer
 
 screen shot
 
-![alt text](https://raw.githubusercontent.com/microjixl/LevelsChoice/master/screen_shot.gif)
+![alt text](https://github.com/microjixl/ImageViewer/blob/master/animated.gif)
